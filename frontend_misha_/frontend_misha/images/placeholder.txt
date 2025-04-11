@@ -1,0 +1,6 @@
+Create or upload the following images:
+- profile.jpg (for hero section)
+- about.jpg (for about section)
+- project1.jpg through project6.jpg (for projects section)
+
+These images should be placed in the images directory.
